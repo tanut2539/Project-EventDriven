@@ -1,0 +1,33 @@
+C:\Users\Toey\AppData\Local\Temporary Projects\Project_1570700839\bin\Debug\Database1.mdf
+C:\Users\Toey\AppData\Local\Temporary Projects\Project_1570700839\bin\Debug\Database1_log.ldf
+C:\Users\Toey\AppData\Local\Temporary Projects\Project_1570700839\bin\Debug\Project_1570700839.exe.config
+C:\Users\Toey\AppData\Local\Temporary Projects\Project_1570700839\bin\Debug\Project_1570700839.exe
+C:\Users\Toey\AppData\Local\Temporary Projects\Project_1570700839\bin\Debug\Project_1570700839.pdb
+C:\Users\Toey\AppData\Local\Temporary Projects\Project_1570700839\obj\x86\Debug\Project_1570700839.load.resources
+C:\Users\Toey\AppData\Local\Temporary Projects\Project_1570700839\obj\x86\Debug\Project_1570700839.Main.resources
+C:\Users\Toey\AppData\Local\Temporary Projects\Project_1570700839\obj\x86\Debug\Project_1570700839.Properties.Resources.resources
+C:\Users\Toey\AppData\Local\Temporary Projects\Project_1570700839\obj\x86\Debug\Project_1570700839.csproj.GenerateResource.Cache
+C:\Users\Toey\AppData\Local\Temporary Projects\Project_1570700839\obj\x86\Debug\Project_1570700839.exe
+C:\Users\Toey\AppData\Local\Temporary Projects\Project_1570700839\obj\x86\Debug\Project_1570700839.pdb
+C:\Users\Toey\AppData\Local\Temporary Projects\Project_1570700839\obj\x86\Debug\Project_1570700839.add.resources
+C:\Users\Toey\AppData\Local\Temporary Projects\Project_1570700839\obj\x86\Debug\Project_1570700839.buy.resources
+C:\Users\Toey\AppData\Local\Temporary Projects\Project_1570700839\obj\x86\Debug\Project_1570700839.edit.resources
+C:\Users\Toey\Desktop\Allnew\Project_1570700839\Project_1570700839\Project_1570700839\bin\Debug\Project_1570700839.exe.config
+C:\Users\Toey\Desktop\Allnew\Project_1570700839\Project_1570700839\Project_1570700839\obj\x86\Debug\Project_1570700839.exe
+C:\Users\Toey\Desktop\Allnew\Project_1570700839\Project_1570700839\Project_1570700839\obj\x86\Debug\Project_1570700839.pdb
+C:\Users\Toey\Desktop\Allnew\Project_1570700839\Project_1570700839\Project_1570700839\bin\Debug\Project_1570700839.exe
+C:\Users\Toey\Desktop\Allnew\Project_1570700839\Project_1570700839\Project_1570700839\bin\Debug\Project_1570700839.pdb
+C:\Users\Toey\Desktop\Allnew\Project_1570700839\Project_1570700839\Project_1570700839\obj\x86\Debug\Project_1570700839.add.resources
+C:\Users\Toey\Desktop\Allnew\Project_1570700839\Project_1570700839\Project_1570700839\obj\x86\Debug\Project_1570700839.buy.resources
+C:\Users\Toey\Desktop\Allnew\Project_1570700839\Project_1570700839\Project_1570700839\obj\x86\Debug\Project_1570700839.edit.resources
+C:\Users\Toey\Desktop\Allnew\Project_1570700839\Project_1570700839\Project_1570700839\obj\x86\Debug\Project_1570700839.load.resources
+C:\Users\Toey\Desktop\Allnew\Project_1570700839\Project_1570700839\Project_1570700839\obj\x86\Debug\Project_1570700839.Main.resources
+C:\Users\Toey\Desktop\Allnew\Project_1570700839\Project_1570700839\Project_1570700839\obj\x86\Debug\Project_1570700839.Properties.Resources.resources
+C:\Users\Toey\Desktop\Allnew\Project_1570700839\Project_1570700839\Project_1570700839\obj\x86\Debug\Project_1570700839.csproj.GenerateResource.Cache
+C:\Users\Toey\Desktop\Allnew\Project_1570700839\Project_1570700839\Project_1570700839\bin\Debug\Project_1570700839.exe.manifest
+C:\Users\Toey\Desktop\Allnew\Project_1570700839\Project_1570700839\Project_1570700839\bin\Debug\Project_1570700839.application
+C:\Users\Toey\Desktop\Allnew\Project_1570700839\Project_1570700839\Project_1570700839\obj\x86\Debug\Project_1570700839.exe.manifest
+C:\Users\Toey\Desktop\Allnew\Project_1570700839\Project_1570700839\Project_1570700839\obj\x86\Debug\Project_1570700839.application
+C:\Users\Toey\Desktop\Allnew\Project_1570700839\Project_1570700839\Project_1570700839\obj\x86\Debug\Project_1570700839.csprojResolveAssemblyReference.cache
+C:\Users\Toey\Desktop\Allnew\Project_1570700839\Project_1570700839\Project_1570700839\bin\Debug\Database1.mdf
+C:\Users\Toey\Desktop\Allnew\Project_1570700839\Project_1570700839\Project_1570700839\bin\Debug\Database1_log.ldf
